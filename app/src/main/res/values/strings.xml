@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MADT1026</string>
+    <string name="notes_text" translatable="false">Notes</string>
+    <string name="my_note">My Notes</string>
+    <string name="add_new_note">Add New Note</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="save_note">Save Note</string>
+    <string name="add_note">Add Note</string>
+    <string name="save_and_close" translatable="false">Save and close</string>
+    <string name="note_text" translatable="false">Note text</string>
+    <string name="msg_last_saved_note" translatable="false">Last saved note</string>
+    <string name="remove_note" translatable="false">Remove note</string>
+
+    <plurals name="selected_items">
+        <item quantity="one">%d item selected</item>
+        <item quantity="other">%d items selected</item>
+    </plurals>
+
+</resources>
+
